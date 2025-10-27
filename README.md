@@ -10,6 +10,7 @@ Este repositório foi criado para organizar e compartilhar todas as atividades, 
 
 - [💡 Sobre o Bootcamp](#-sobre-o-bootcamp)
 - [🎯 Objetivo deste Repositório](#-objetivo-deste-repositório)
+- [🏅 Certificações obtidas](#-certificações-obtidas)
 - [📂 Estrutura do Repositório](#-estrutura-do-repositório)
 - [🛠️ Tecnologias e Ferramentas](#️-tecnologias-e-ferramentas)
 - [🔗 Links Úteis](#-links-úteis)
@@ -42,6 +43,34 @@ Este repositório foi criado com o propósito de:
 - Organizar os **projetos práticos** de forma clara e acessível;
 - Servir como um **portfólio público** da minha evolução na área de **cloud computing e DevOps**;
 - Registrar minha **jornada de aprendizado** e desenvolvimento profissional.
+
+---
+## 🏅 Certificações obtidas
+
+Durante o curso, concluí as seguintes **certificações introdutórias** da Amazon Web Services (AWS):
+
+- AWS  
+- Amazon EC2  
+- Amazon EBS  
+- Amazon S3  
+- AWS Lambda  
+- Amazon VPC  
+- Amazon Route 53  
+- Amazon Elastic Load Balancer  
+- Amazon RDS  
+- Amazon DynamoDB  
+- Amazon Glacier  
+- Amazon CloudFront  
+- AWS SNS  
+- AWS Step Functions  
+- AWS CloudWatch  
+- AWS CloudFormation  
+- AWS WAF  
+- AWS ECS  
+- Amazon EKS  
+- Amazon SQS  
+- AWS CloudTrail
+
 
 ---
 
